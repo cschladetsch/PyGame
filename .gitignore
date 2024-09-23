@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pygame window settings
+*.log
+
+# MacOS-specific files
+.DS_Store
+
+# Virtual environment
+env/
+venv/
+
